@@ -27,6 +27,8 @@ problem docker solves: standardization
 
 `docker stop {container_id}`
 
+` docker container prune` # remove all stopped containers
+
 # Dockerfile
 
  docker build   image_name    folder of Dockerfile

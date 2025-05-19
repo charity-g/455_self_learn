@@ -6,3 +6,8 @@
 
 `cat ~/.ssh/id_ed25519.pub | clip`
 > retrives key to be pasted into GitHub keys
+
+# adding github repo remote to local  
+> git 
+= rebase
+`git pull --rebase origin main`
